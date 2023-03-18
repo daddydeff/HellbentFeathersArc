@@ -8,6 +8,7 @@ Next update will include:
  - Different sound effects for P1 & P2
  - Sound effect on impact.
  - Scores.
+ - Bigger Canvas
 
 Bugs I need to work on:
 - Not making P2 the winner in draws.
