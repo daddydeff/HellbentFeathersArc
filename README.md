@@ -1,5 +1,8 @@
 # HellbentFeathersArc
 
+The game is available on http://torsk.net:8080/
+
+If the server is down and you still wanna try it just download the Zip.
 You may need to run: "export NODE_OPTIONS=--openssl-legacy-provider" before npm run dev to start the localhost
 
 Next update will include:
@@ -25,5 +28,5 @@ Possible features in the future:
 - Map select screen.
 - More maps with unique elements.
 
-- ONLINE??
+- ONLINE MULTIPLAYER??
 
