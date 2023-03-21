@@ -16,6 +16,7 @@ Bugs I need to work on:
 - Not making P2 the winner in draws.
 - Better collision.
 - The music looping over itself.
+- Clearer tutorial
 
 
 Possible features in the future:
